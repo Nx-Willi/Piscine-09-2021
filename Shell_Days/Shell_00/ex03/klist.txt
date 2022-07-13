@@ -1,0 +1,5 @@
+Credentials cache: API:29F7129E-CAC6-4C99-81FF-2288199AB600
+        Principal: wdebotte@42.FR
+
+  Issued                Expires               Principal
+Sep  7 16:01:36 2021  Sep 14 16:01:36 2021  krbtgt/42.FR@42.FR1
